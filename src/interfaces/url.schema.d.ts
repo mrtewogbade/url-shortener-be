@@ -7,5 +7,8 @@ export interface IUrl extends Document {
    urlCode: string;
    visits: number;
    createdAt: Date;
+   lastVisited?: Date;
+   userAgentCounts?: Record<string, number>;
+   referrerCounts?: Record<string, number>;
     
 }

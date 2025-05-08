@@ -24,3 +24,102 @@
 2025-05-06T13:15:04.061Z [[32minfo[39m]: Server running on port 3200
 2025-05-06T13:27:26.479Z [[32minfo[39m]: Successfully connected to DB
 2025-05-06T13:27:26.491Z [[32minfo[39m]: Server running on port 3200
+2025-05-06T17:55:00.060Z [[32minfo[39m]: Successfully connected to DB
+2025-05-06T17:55:00.069Z [[32minfo[39m]: Server running on port 3200
+2025-05-06T18:07:53.618Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-06T18:08:24.530Z [[32minfo[39m]: Successfully connected to DB
+2025-05-06T18:08:24.550Z [[32minfo[39m]: Server running on port 3200
+2025-05-06T18:08:28.139Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-06T18:09:01.900Z [[32minfo[39m]: Successfully connected to DB
+2025-05-06T18:09:01.907Z [[32minfo[39m]: Server running on port 3200
+2025-05-06T18:09:05.751Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-06T18:09:41.800Z [[32minfo[39m]: Successfully connected to DB
+2025-05-06T18:09:41.804Z [[32minfo[39m]: Server running on port 3200
+2025-05-06T18:11:09.554Z [[32minfo[39m]: Successfully connected to DB
+2025-05-06T18:11:09.564Z [[32minfo[39m]: Server running on port 3200
+2025-05-06T18:11:13.267Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-06T18:12:23.197Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-06T18:13:28.587Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-06T18:15:40.541Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-06T18:17:51.348Z [[32minfo[39m]: Successfully connected to DB
+2025-05-06T18:17:51.356Z [[32minfo[39m]: Server running on port 3200
+2025-05-06T18:18:00.039Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-06T18:20:37.343Z [[32minfo[39m]: Successfully connected to DB
+2025-05-06T18:20:37.349Z [[32minfo[39m]: Server running on port 3200
+2025-05-06T18:22:11.128Z [[32minfo[39m]: GET - /v1/api/url/decode/7yAuHZe_7
+2025-05-06T18:22:56.297Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-06T18:23:33.720Z [[32minfo[39m]: GET - /v1/api/url/decode/7yAuHZe_7
+2025-05-06T18:25:04.174Z [[32minfo[39m]: GET - /v1/api/url/statistics/7yAuHZe_7
+2025-05-06T18:25:15.037Z [[32minfo[39m]: GET - /v1/api/url/statistics/7yAuHZe_7
+2025-05-06T18:25:28.937Z [[32minfo[39m]: GET - /v1/api/url/decode/7yAuHZe_7
+2025-05-06T18:25:32.094Z [[32minfo[39m]: GET - /v1/api/url/decode/7yAuHZe_7
+2025-05-06T18:25:33.741Z [[32minfo[39m]: GET - /v1/api/url/decode/7yAuHZe_7
+2025-05-06T18:25:35.262Z [[32minfo[39m]: GET - /v1/api/url/decode/7yAuHZe_7
+2025-05-06T18:25:41.283Z [[32minfo[39m]: GET - /v1/api/url/statistics/7yAuHZe_7
+2025-05-06T18:26:30.282Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-06T18:27:10.307Z [[32minfo[39m]: GET - /v1/api/url/statistics/7yAuHZe_7
+2025-05-06T18:27:49.632Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-06T18:29:55.453Z [[32minfo[39m]: GET - /v1/api/url/search?query=google
+2025-05-06T18:30:04.400Z [[32minfo[39m]: GET - /v1/api/url/search?query=go
+2025-05-06T18:30:09.135Z [[32minfo[39m]: GET - /v1/api/url/search?query=goo
+2025-05-06T18:30:15.021Z [[32minfo[39m]: GET - /v1/api/url/search?query=gle
+2025-05-06T18:30:34.784Z [[32minfo[39m]: GET - /v1/api/url/search?query=gle
+2025-05-06T18:33:42.646Z [[32minfo[39m]: GET - /v1/api/url/7yAuHZe_7
+2025-05-06T18:33:42.654Z [[33mwarn[39m]: Can not find /v1/api/url/7yAuHZe_7 with GET on this server
+2025-05-06T18:34:00.944Z [[32minfo[39m]: GET - /v1/api/url/redirect/7yAuHZe_7
+2025-05-06T18:34:45.715Z [[32minfo[39m]: GET - /v1/api/url/statistics/7yAuHZe_7
+2025-05-06T18:41:17.323Z [[32minfo[39m]: Successfully connected to DB
+2025-05-06T18:41:17.329Z [[32minfo[39m]: Server running on port 3200
+2025-05-07T07:38:58.035Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-07T07:39:45.051Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-07T07:46:32.820Z [[32minfo[39m]: GET - /v1/api/api/list
+2025-05-07T07:46:32.826Z [[33mwarn[39m]: Can not find /v1/api/api/list with GET on this server
+2025-05-07T07:46:32.860Z [[32minfo[39m]: GET - /v1/api/api/list
+2025-05-07T07:46:32.860Z [[33mwarn[39m]: Can not find /v1/api/api/list with GET on this server
+2025-05-07T07:46:51.298Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-07T07:52:57.558Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-07T07:59:45.754Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-07T08:01:50.507Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-07T08:19:15.357Z [[32minfo[39m]: Successfully connected to DB
+2025-05-07T08:19:15.367Z [[32minfo[39m]: Server running on port 3200
+2025-05-07T08:19:40.359Z [[32minfo[39m]: Successfully connected to DB
+2025-05-07T08:19:40.365Z [[32minfo[39m]: Server running on port 3200
+2025-05-07T08:19:52.313Z [[32minfo[39m]: Successfully connected to DB
+2025-05-07T08:19:52.319Z [[32minfo[39m]: Server running on port 3200
+2025-05-07T08:22:57.428Z [[32minfo[39m]: Successfully connected to DB
+2025-05-07T08:22:57.433Z [[32minfo[39m]: Server running on port 3200
+2025-05-07T08:23:20.322Z [[32minfo[39m]: POST - /v1/api/url/encode
+2025-05-07T08:23:53.631Z [[32minfo[39m]: GET - /v1/api/url/decode/xg6XCTg-8
+2025-05-07T08:24:07.307Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:24:07.345Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:27:06.586Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:27:06.606Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:31:05.005Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:31:05.037Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:31:27.365Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:31:27.472Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:36:25.158Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:36:25.221Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-07T08:36:36.429Z [[32minfo[39m]: GET - /v1/api/url/all
+2025-05-08T08:29:45.660Z [[32minfo[39m]: Successfully connected to DB
+2025-05-08T08:29:45.676Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T08:47:15.536Z [[31merror[39m]: Error connecting to DB
+2025-05-08T08:47:15.708Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T08:50:37.312Z [[32minfo[39m]: Successfully connected to DB
+2025-05-08T08:50:37.317Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T08:51:31.951Z [[31merror[39m]: Error connecting to DB
+2025-05-08T08:51:31.963Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T08:51:47.557Z [[32minfo[39m]: Successfully connected to DB
+2025-05-08T08:51:47.562Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T08:52:33.360Z [[32minfo[39m]: Successfully connected to DB
+2025-05-08T08:52:33.370Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T09:08:47.083Z [[32minfo[39m]: Successfully connected to DB
+2025-05-08T09:08:47.089Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T09:12:43.278Z [[32minfo[39m]: Successfully connected to DB
+2025-05-08T09:12:43.284Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T09:16:40.629Z [[32minfo[39m]: Successfully connected to DB
+2025-05-08T09:16:40.636Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T10:10:41.132Z [[32minfo[39m]: Successfully connected to DB
+2025-05-08T10:10:41.162Z [[32minfo[39m]: Server running on port 3200
+2025-05-08T10:11:47.627Z [[32minfo[39m]: Successfully connected to DB
+2025-05-08T10:11:47.633Z [[32minfo[39m]: Server running on port 3200

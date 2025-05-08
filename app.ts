@@ -15,12 +15,12 @@ import ConnectDB from "./src/config/db.config";
 import AppError from "./src/errors/AppError";
 import GlobalErrorHandler from "./src/errors/errorHandler";
 
-// import authRoutes from "./src/routes/auth.route";
+import urlRoutes from "./src/routes/url.route";
 
 
 import Limiter from "./src/middleware/rateLimit";
 import logger, { logRequest } from "./src/middleware/logger";
-import { COOKIE_SECRET, PORT } from "./src/serviceUrl";
+import { PORT } from "./src/serviceUrl";
 
 dotenv.config();
 const port = PORT || 8081;
@@ -44,7 +44,6 @@ app.use(
   })
 );
 
-app.use(cookieParser(COOKIE_SECRET));
 app.use(helmet({
   contentSecurityPolicy: false,
 }));
@@ -68,7 +67,8 @@ const shouldCompress = (req: express.Request, res: express.Response) => {
 app.use(compression({ filter: shouldCompress }));
 
 //All Routes comes in Here
-// app.use("/v1/api/auth", authRoutes);
+
+app.use("/v1/api/url", Limiter, urlRoutes);
 
 
 

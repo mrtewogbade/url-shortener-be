@@ -6,7 +6,7 @@ import { DB_URI } from "../serviceUrl";
 const ConnectDB = async():Promise<void>=>{
     try {
         if (DB_URI == undefined) throw new Error("DB_URI is undefined, please check .env file")
-        await mongoose.connect(DB_URI)
+        await mongoose.connect(DB_URI || 'mongodb+srv://mern-auth:mernauth@cluster0.10ubkeq.mongodb.net/' )
         logger.info("Successfully connected to DB")
     } catch (error) {
         console.log(error);
